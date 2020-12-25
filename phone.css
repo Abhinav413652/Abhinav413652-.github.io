@@ -1,0 +1,29 @@
+/* body{
+    background-color: red;
+} */
+.gameOver{
+    font-size: 15px;
+    top: 0px;
+}
+#scoreCont{
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 15px;
+    position: absolute;
+    top: 30px;
+    left: 9px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+.dino{
+    background-image: url(IMG/player.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 233px;
+    height: 114px;
+    position: absolute;
+    bottom: 0px;
+    left: 2px;
+}
